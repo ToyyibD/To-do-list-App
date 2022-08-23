@@ -1,3 +1,3 @@
 # To-do-list-App
 
-[Click link here](tbag-to-do-list.netlify.app)
+[Click link here](tbag-to-do-list.netlify.app/)
